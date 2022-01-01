@@ -1,6 +1,6 @@
-#My-CP-questions
-
-
-Leetcode solutions
-CSES-Solutions
-Here i will be posting my solutions for the CSES problem set. 
+Here i will be posting my solutions for the competitive programming problem sets through different platforms.
+CF
+CC
+Leetcode
+CSES
+HR
